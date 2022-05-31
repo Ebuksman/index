@@ -1,0 +1,12 @@
+.change button{
+    font-size: 50px;
+    border: 20px;
+    border-radius: 10px;
+    color:brown;
+    transition: all 1s;
+}
+
+button:hover {
+    transition: all 1s; 
+    background-color:yellow;
+}
